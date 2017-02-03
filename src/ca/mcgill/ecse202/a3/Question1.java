@@ -4,7 +4,8 @@ public class Question1 {
 
   public static void main(String[] args) {
 
-    System.out.println("Hellow World");
+    System.out.println("Tyler Young");
+    System.out.println("Young Tyler");
   }
 
 }
